@@ -14,7 +14,7 @@ Este laboratorio demuestra cómo levantar un broker Kafka en un contenedor, crea
 - Scripts en Python para:
   - **Producer**: envía mensajes al topic `test`.
   - **Consumer**: recibe mensajes en tiempo real desde el topic.
-- Automatización completa con `kafka_lab_linkedin.sh`.
+- Automatización completa con `kafka.sh`.
 
 ---
 
